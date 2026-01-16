@@ -156,6 +156,13 @@ npm test
 - The "Add to Cart" functionality is just a UI placeholder
 - I used CSS Modules for component styling to avoid style conflicts
 
+/screenshots
+<img width="1901" height="1003" alt="image" src="https://github.com/user-attachments/assets/cbecb433-4511-496d-995e-5a9876e7e04d" />
+<img width="1901" height="1003" alt="image" src="https://github.com/user-attachments/assets/77d7d284-c8bb-4947-bd95-7e0bda5ee77b" />
+<img width="1901" height="1003" alt="image" src="https://github.com/user-attachments/assets/9780bc3d-e427-477f-8e60-edf6046a3731" />
+
 
 
 If you have any questions about the implementation, feel free to ask!
+
+

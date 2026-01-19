@@ -1,10 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
+  output: 'export', // <--- This line is mandatory for Static Sites on Render
   images: {
-    domains: ['localhost'],
+    unoptimized: true, // Recommended so your images don't break
   },
 };
 
 module.exports = nextConfig;
-
